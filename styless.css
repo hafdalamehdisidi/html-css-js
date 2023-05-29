@@ -1,0 +1,41 @@
+body {
+  background: green;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+.formulary {
+background: whitesmoke;
+justify-content: center;
+align-items: center;
+width: 900px;
+height: 895px;
+margin-left: 800px;
+padding-bottom: 30px;
+margin-right: 40px;
+}
+form {
+margin-left: 50px;
+padding-top: 60px;
+}
+#name {
+width: 600px;
+height: 30px;
+margin-top: 5px;
+}
+#mail {
+width: 600px;
+height: 30px;
+
+}
+#age{
+width: 600px;
+height: 30px;
+}
+#select {
+width: 550px;
+height: 40px;
+}
+#text-area {
+width: 550px;
+height: 40px;
+}
